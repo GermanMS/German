@@ -1,8 +1,8 @@
-﻿int numberA = new Random().Next(1,10);
+﻿int numberA = new Random().Next(1,20);
 Console.WriteLine(numberA);
-int numberB = new Random().Next(1,10);
+int numberB = new Random().Next(1,20);
 Console.WriteLine(numberB);
-int numberC = new Random().Next(1,10);
+int numberC = new Random().Next(1,20);
 Console.WriteLine(numberC);
 int maxNumbers = numberA;
 if(maxNumbers>numberB)
@@ -22,5 +22,5 @@ else
     maxNumbers=numberC;
 }
 
-Console.WriteLine(maxNumbers);
+Console.WriteLine(maxNumbers + " максимальное значение из 3");
 
