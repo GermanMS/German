@@ -1,0 +1,15 @@
+C:\Users\Makee\Desktop\study\seminar\max3\bin\Debug\net6.0\max3.exe
+C:\Users\Makee\Desktop\study\seminar\max3\bin\Debug\net6.0\max3.deps.json
+C:\Users\Makee\Desktop\study\seminar\max3\bin\Debug\net6.0\max3.runtimeconfig.json
+C:\Users\Makee\Desktop\study\seminar\max3\bin\Debug\net6.0\max3.dll
+C:\Users\Makee\Desktop\study\seminar\max3\bin\Debug\net6.0\max3.pdb
+C:\Users\Makee\Desktop\study\seminar\max3\obj\Debug\net6.0\max3.csproj.AssemblyReference.cache
+C:\Users\Makee\Desktop\study\seminar\max3\obj\Debug\net6.0\max3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Makee\Desktop\study\seminar\max3\obj\Debug\net6.0\max3.AssemblyInfoInputs.cache
+C:\Users\Makee\Desktop\study\seminar\max3\obj\Debug\net6.0\max3.AssemblyInfo.cs
+C:\Users\Makee\Desktop\study\seminar\max3\obj\Debug\net6.0\max3.csproj.CoreCompileInputs.cache
+C:\Users\Makee\Desktop\study\seminar\max3\obj\Debug\net6.0\max3.dll
+C:\Users\Makee\Desktop\study\seminar\max3\obj\Debug\net6.0\refint\max3.dll
+C:\Users\Makee\Desktop\study\seminar\max3\obj\Debug\net6.0\max3.pdb
+C:\Users\Makee\Desktop\study\seminar\max3\obj\Debug\net6.0\max3.genruntimeconfig.cache
+C:\Users\Makee\Desktop\study\seminar\max3\obj\Debug\net6.0\ref\max3.dll
