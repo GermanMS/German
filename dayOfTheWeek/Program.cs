@@ -1,17 +1,33 @@
-﻿Сonsole.WriteLine("введите число дня недели");
-string number = Console.ReadLine();
-if(1=Сonsole.WriteLine("понедельник"));
-else;
-if(2=Сonsole.WriteLine("вторник"));
-else;
-if(3=Сonsole.WriteLine("среда"));
-else;
-if(4=Сonsole.WriteLine("четверг"));
-else;
-if(5=Сonsole.WriteLine("пятница"));
-else;
-if(6=Сonsole.WriteLine("суббота"));
-else;
-if(7=Сonsole.WriteLine("воскресенье"));
+﻿Console.WriteLine("день недели числом");
 
-Console.Write(number);
+int number = Convert.ToInt32(Console.ReadLine());
+if(number == 1)
+{
+    Console.WriteLine("сегодня понедельник");
+}
+if(number == 2)
+{
+    Console.WriteLine("сегодня вторник");
+}
+
+if(number == 3)
+{
+    Console.WriteLine("сегодня среда");
+}
+if(number == 4)
+{
+    Console.WriteLine("сегодня четверг");
+}
+if(number == 5)
+{
+    Console.WriteLine("сегодня пятница");
+}
+if(number == 6)
+{
+    Console.WriteLine("сегодня суббота");
+}
+if(number == 7)
+{
+    Console.WriteLine("сегодня воскресенье");
+}
+
