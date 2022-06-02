@@ -3,3 +3,13 @@ C:\Users\Makee\Desktop\study\seminar\dayOfTheWeek\obj\Debug\net6.0\dayOfTheWeek.
 C:\Users\Makee\Desktop\study\seminar\dayOfTheWeek\obj\Debug\net6.0\dayOfTheWeek.AssemblyInfoInputs.cache
 C:\Users\Makee\Desktop\study\seminar\dayOfTheWeek\obj\Debug\net6.0\dayOfTheWeek.AssemblyInfo.cs
 C:\Users\Makee\Desktop\study\seminar\dayOfTheWeek\obj\Debug\net6.0\dayOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\Makee\Desktop\study\seminar\dayOfTheWeek\bin\Debug\net6.0\dayOfTheWeek.exe
+C:\Users\Makee\Desktop\study\seminar\dayOfTheWeek\bin\Debug\net6.0\dayOfTheWeek.deps.json
+C:\Users\Makee\Desktop\study\seminar\dayOfTheWeek\bin\Debug\net6.0\dayOfTheWeek.runtimeconfig.json
+C:\Users\Makee\Desktop\study\seminar\dayOfTheWeek\bin\Debug\net6.0\dayOfTheWeek.dll
+C:\Users\Makee\Desktop\study\seminar\dayOfTheWeek\bin\Debug\net6.0\dayOfTheWeek.pdb
+C:\Users\Makee\Desktop\study\seminar\dayOfTheWeek\obj\Debug\net6.0\dayOfTheWeek.dll
+C:\Users\Makee\Desktop\study\seminar\dayOfTheWeek\obj\Debug\net6.0\refint\dayOfTheWeek.dll
+C:\Users\Makee\Desktop\study\seminar\dayOfTheWeek\obj\Debug\net6.0\dayOfTheWeek.pdb
+C:\Users\Makee\Desktop\study\seminar\dayOfTheWeek\obj\Debug\net6.0\dayOfTheWeek.genruntimeconfig.cache
+C:\Users\Makee\Desktop\study\seminar\dayOfTheWeek\obj\Debug\net6.0\ref\dayOfTheWeek.dll
