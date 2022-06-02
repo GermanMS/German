@@ -1,0 +1,5 @@
+C:\Users\Makee\Desktop\study\seminar\dayOfTheWeek\obj\Debug\net6.0\dayOfTheWeek.csproj.AssemblyReference.cache
+C:\Users\Makee\Desktop\study\seminar\dayOfTheWeek\obj\Debug\net6.0\dayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Makee\Desktop\study\seminar\dayOfTheWeek\obj\Debug\net6.0\dayOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\Makee\Desktop\study\seminar\dayOfTheWeek\obj\Debug\net6.0\dayOfTheWeek.AssemblyInfo.cs
+C:\Users\Makee\Desktop\study\seminar\dayOfTheWeek\obj\Debug\net6.0\dayOfTheWeek.csproj.CoreCompileInputs.cache
