@@ -1,4 +1,4 @@
-﻿Console.WriteLine("день недели числом");
+﻿Console.WriteLine("ввести день недели числом от 1 до 7");
 
 int number = Convert.ToInt32(Console.ReadLine());
 if(number == 1)
@@ -30,4 +30,7 @@ if(number == 7)
 {
     Console.WriteLine("сегодня воскресенье");
 }
-
+if(number >=8)
+{
+     Console.WriteLine("введено неверное число");
+}
