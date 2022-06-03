@@ -1,0 +1,15 @@
+C:\Users\Makee\Desktop\study\seminar\theLastDigit\bin\Debug\net6.0\theLastDigit.exe
+C:\Users\Makee\Desktop\study\seminar\theLastDigit\bin\Debug\net6.0\theLastDigit.deps.json
+C:\Users\Makee\Desktop\study\seminar\theLastDigit\bin\Debug\net6.0\theLastDigit.runtimeconfig.json
+C:\Users\Makee\Desktop\study\seminar\theLastDigit\bin\Debug\net6.0\theLastDigit.dll
+C:\Users\Makee\Desktop\study\seminar\theLastDigit\bin\Debug\net6.0\theLastDigit.pdb
+C:\Users\Makee\Desktop\study\seminar\theLastDigit\obj\Debug\net6.0\theLastDigit.csproj.AssemblyReference.cache
+C:\Users\Makee\Desktop\study\seminar\theLastDigit\obj\Debug\net6.0\theLastDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Makee\Desktop\study\seminar\theLastDigit\obj\Debug\net6.0\theLastDigit.AssemblyInfoInputs.cache
+C:\Users\Makee\Desktop\study\seminar\theLastDigit\obj\Debug\net6.0\theLastDigit.AssemblyInfo.cs
+C:\Users\Makee\Desktop\study\seminar\theLastDigit\obj\Debug\net6.0\theLastDigit.csproj.CoreCompileInputs.cache
+C:\Users\Makee\Desktop\study\seminar\theLastDigit\obj\Debug\net6.0\theLastDigit.dll
+C:\Users\Makee\Desktop\study\seminar\theLastDigit\obj\Debug\net6.0\refint\theLastDigit.dll
+C:\Users\Makee\Desktop\study\seminar\theLastDigit\obj\Debug\net6.0\theLastDigit.pdb
+C:\Users\Makee\Desktop\study\seminar\theLastDigit\obj\Debug\net6.0\theLastDigit.genruntimeconfig.cache
+C:\Users\Makee\Desktop\study\seminar\theLastDigit\obj\Debug\net6.0\ref\theLastDigit.dll
