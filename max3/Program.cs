@@ -6,7 +6,6 @@ int numberC = new Random().Next(1,20);
 Console.WriteLine(numberC +  "третье случайное число");
 int maxNumbers = numberA;
 if(maxNumbers>numberB);
-
 else
 {
     maxNumbers=numberB;
@@ -17,6 +16,4 @@ else
 {
     maxNumbers=numberC;
 }
-
 Console.WriteLine(maxNumbers + " максимальное значение из 3");
-
