@@ -1,0 +1,15 @@
+C:\Users\Makee\Desktop\study\seminar\theSecondNnumber\obj\Debug\net6.0\theSecondNnumber.csproj.AssemblyReference.cache
+C:\Users\Makee\Desktop\study\seminar\theSecondNnumber\obj\Debug\net6.0\theSecondNnumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Makee\Desktop\study\seminar\theSecondNnumber\obj\Debug\net6.0\theSecondNnumber.AssemblyInfoInputs.cache
+C:\Users\Makee\Desktop\study\seminar\theSecondNnumber\obj\Debug\net6.0\theSecondNnumber.AssemblyInfo.cs
+C:\Users\Makee\Desktop\study\seminar\theSecondNnumber\obj\Debug\net6.0\theSecondNnumber.csproj.CoreCompileInputs.cache
+C:\Users\Makee\Desktop\study\seminar\theSecondNnumber\bin\Debug\net6.0\theSecondNnumber.exe
+C:\Users\Makee\Desktop\study\seminar\theSecondNnumber\bin\Debug\net6.0\theSecondNnumber.deps.json
+C:\Users\Makee\Desktop\study\seminar\theSecondNnumber\bin\Debug\net6.0\theSecondNnumber.runtimeconfig.json
+C:\Users\Makee\Desktop\study\seminar\theSecondNnumber\bin\Debug\net6.0\theSecondNnumber.dll
+C:\Users\Makee\Desktop\study\seminar\theSecondNnumber\bin\Debug\net6.0\theSecondNnumber.pdb
+C:\Users\Makee\Desktop\study\seminar\theSecondNnumber\obj\Debug\net6.0\theSecondNnumber.dll
+C:\Users\Makee\Desktop\study\seminar\theSecondNnumber\obj\Debug\net6.0\refint\theSecondNnumber.dll
+C:\Users\Makee\Desktop\study\seminar\theSecondNnumber\obj\Debug\net6.0\theSecondNnumber.pdb
+C:\Users\Makee\Desktop\study\seminar\theSecondNnumber\obj\Debug\net6.0\theSecondNnumber.genruntimeconfig.cache
+C:\Users\Makee\Desktop\study\seminar\theSecondNnumber\obj\Debug\net6.0\ref\theSecondNnumber.dll
