@@ -1,0 +1,15 @@
+C:\Users\Makee\Desktop\study\seminar\segment1099\bin\Debug\net6.0\segment1099.exe
+C:\Users\Makee\Desktop\study\seminar\segment1099\bin\Debug\net6.0\segment1099.deps.json
+C:\Users\Makee\Desktop\study\seminar\segment1099\bin\Debug\net6.0\segment1099.runtimeconfig.json
+C:\Users\Makee\Desktop\study\seminar\segment1099\bin\Debug\net6.0\segment1099.dll
+C:\Users\Makee\Desktop\study\seminar\segment1099\bin\Debug\net6.0\segment1099.pdb
+C:\Users\Makee\Desktop\study\seminar\segment1099\obj\Debug\net6.0\segment1099.csproj.AssemblyReference.cache
+C:\Users\Makee\Desktop\study\seminar\segment1099\obj\Debug\net6.0\segment1099.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Makee\Desktop\study\seminar\segment1099\obj\Debug\net6.0\segment1099.AssemblyInfoInputs.cache
+C:\Users\Makee\Desktop\study\seminar\segment1099\obj\Debug\net6.0\segment1099.AssemblyInfo.cs
+C:\Users\Makee\Desktop\study\seminar\segment1099\obj\Debug\net6.0\segment1099.csproj.CoreCompileInputs.cache
+C:\Users\Makee\Desktop\study\seminar\segment1099\obj\Debug\net6.0\segment1099.dll
+C:\Users\Makee\Desktop\study\seminar\segment1099\obj\Debug\net6.0\refint\segment1099.dll
+C:\Users\Makee\Desktop\study\seminar\segment1099\obj\Debug\net6.0\segment1099.pdb
+C:\Users\Makee\Desktop\study\seminar\segment1099\obj\Debug\net6.0\segment1099.genruntimeconfig.cache
+C:\Users\Makee\Desktop\study\seminar\segment1099\obj\Debug\net6.0\ref\segment1099.dll
